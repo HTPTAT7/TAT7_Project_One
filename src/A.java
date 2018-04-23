@@ -4,6 +4,7 @@ public class A{
 		System.out.println("Hello Dear Students!");
 		System.out.println("Hello Dear Students2!");
 		System.out.println("Hello Dear Students3!");
+		System.out.println("Hello from web");
 	}
 	
 }
